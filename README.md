@@ -77,4 +77,4 @@
 		2. Многими сторонами
 ## АЭС
 Вдохновляющая отсылка
-![Nuclear Power Plant](UNSORTED_INFORMATION/PWR_Nuclear_Power_Plant_-_ru.svg)
+![Nuclear Power Plant](./PWR_Nuclear_Power_Plant_-_ru.svg)
